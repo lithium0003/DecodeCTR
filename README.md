@@ -1,7 +1,7 @@
 # DecodeCTR
 Decode CTR encrypted files of TS viewer for Amazon Cloud Drive on local
 
-![screen image](DecodeCarotDAV.jpg)
+![screen image](DecodeCTR.jpg)
 
 ## Overview
 Encrypt/decrypt application [TS viewer for Amazon Cloud Drive](../../../TSviewACD) encrytion method (without filename encryption)
